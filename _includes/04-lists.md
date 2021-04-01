@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+* Whitehouse
+  * Peter Kurten
+  * New Britain
+* Stockhausen
+  * Kurzwellen
+  * Hymnen
